@@ -1,3 +1,5 @@
+![PlayersView](https://user-images.githubusercontent.com/108804713/204625247-d9fb37e8-f247-4e87-abaa-2fe47701fb66.png)
+
 # unity-fundamental
  Project for Unity Fundamentals course
  
@@ -8,3 +10,6 @@ Learned how to protoype with basic shapes and scripting.  Layed out level, added
 Moved from protoyping to importing assets for actual level design.  Implemented prefabs and created level with assets based off prototype shape.  Added player and NPC with provided assets and setup simple animation trees linked to C# script for dynamic movement.  
 
 Added lighting and adjusted to represent underground dark city.  Added a particle fog effect to level.  Added moonlight effect with light streaks.  Added background sound effects linked to both camera and objects.  Implemented dynamic camera that followed player movement with third-person over-the-shoulder view.
+
+Gamplay Video:
+https://user-images.githubusercontent.com/108804713/204628214-0ec479be-cc67-4df9-9eb0-f386fa986170.mp4
