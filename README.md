@@ -1,4 +1,4 @@
-![Level View](https://user-images.githubusercontent.com/108804713/204628761-4a430f88-db3a-434c-bec6-1dea5de43d74.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/108804713/204630076-861fcda5-cc2e-4e61-9d34-4639c2899230.png)
 
 
 # unity-fundamental
@@ -13,4 +13,7 @@ Moved from protoyping to importing assets for actual level design.  Implemented 
 Added lighting and adjusted to represent underground dark city.  Added a particle fog effect to level.  Added moonlight effect with light streaks.  Added background sound effects linked to both camera and objects.  Implemented dynamic camera that followed player movement with third-person over-the-shoulder view.
 
 Gamplay Video:
-https://user-images.githubusercontent.com/108804713/204628214-0ec479be-cc67-4df9-9eb0-f386fa986170.mp4
+https://user-images.githubusercontent.com/108804713/204631145-f8505e52-e50e-4baa-bb11-97832c536c9e.mp4
+
+
+
