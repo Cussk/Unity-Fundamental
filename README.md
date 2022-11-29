@@ -1,4 +1,5 @@
-![PlayersView](https://user-images.githubusercontent.com/108804713/204625247-d9fb37e8-f247-4e87-abaa-2fe47701fb66.png)
+![Level View](https://user-images.githubusercontent.com/108804713/204628761-4a430f88-db3a-434c-bec6-1dea5de43d74.png)
+
 
 # unity-fundamental
  Project for Unity Fundamentals course
